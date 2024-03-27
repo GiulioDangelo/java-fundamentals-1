@@ -24,5 +24,7 @@ public class CalcolaBiglietto {
         } else {
             System.out.println(prezzo);
         }
+
+        scan.close();
     }
 }
